@@ -25,32 +25,17 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 ##  Skills
 
 - Html 
-
 - Css
-
 - Javascript
-
 - Ecmascript
-
 - Bootstrap
-
-- Responsive Web Design
-
 - Wordpress/WooCommerce/Elementor/Divi/Oxygen 
-
 - Php
-
 - Sql (Postgresql, Sql server, Mysql, Mariabd, Sybase)
-
 - Java
-
 - Github
-
 - npm
-
 - AdobeXD
-
-  
 
 ------
 
