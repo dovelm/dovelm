@@ -6,7 +6,7 @@ I am a Front-end Web Developer with experience in Sql and Programming ... In the
 
 and... In the challenges of Frontend Mentor 
 
-Successfully Completed the course of  FreeCodecamp (Responsive Web Design & JavaScript) [fcc] (https://codepen.io/dusvimarin/pen/BaWJpLm)
+Successfully Completed the course of  FreeCodecamp (Responsive Web Design & JavaScript) e [FEM](https://www.frontendmentor.io/profile/FluffyKas) 
 
 ------
 
