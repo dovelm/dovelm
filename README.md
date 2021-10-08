@@ -1,4 +1,4 @@
-# Hello World! I'm Dusvy Marin 👩 ✌️
+  # Hello World! I'm Dusvy Marin 👩 ✌️
 
 I am a Front-end Web Developer with experience in Sql and Programming ... In the future I will be a Data Scientist or Tester.
 
@@ -9,7 +9,7 @@ and... In the challenges of Frontend Mentor
 Successfully Completed the course of  FreeCodecamp (Responsive Web Design & JavaScript) --> [FCC](https://codepen.io/dusvimarin/pen/BaWJpLm) 
 
 
-##  What I Love
+  ##  What I Love
 
 🤘 Rock Music
 
@@ -20,7 +20,7 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 😻 The Cats
 
 
-##  Skills
+  ##  Skills
 
 - Html 
 - Css
