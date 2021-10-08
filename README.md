@@ -35,7 +35,6 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 - Github
 - npm
 - AdobeXD
-------
 
   ## Contact Me
   
