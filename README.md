@@ -1,16 +1,66 @@
-### Hi there 👋
+# Hello World! I'm Dusvy Marin 👩 ✌️
 
-<!--
-**dusvimarin/dusvimarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Front-end Web Developer with experience in Sql and Programming ... In the future I will be a Data Scientist or Tester.
 
-Here are some ideas to get you started:
+ I’m currently learning Vuejs/Nuxt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and... In the challenges of Frontend Mentor 
+
+Successfully Completed the course of  FreeCodecamp (Responsive Web Design & JavaScript) [fcc]:https://codepen.io/dusvimarin/pen/BaWJpLm
+
+------
+
+##  What I Love
+
+🤘 Rock Music
+
+📷 Fotography
+
+🎥 Movies and Series
+
+😻 The Cats
+
+------
+
+##  Skills
+
+- Html 
+
+- Css
+
+- Javascript
+
+- Ecmascript
+
+- Bootstrap
+
+- Responsive Web Design
+
+- Wordpress/WooCommerce/Elementor/Divi/Oxygen 
+
+- Php
+
+- Sql (Postgresql, Sql server, Mysql, Mariabd, Sybase)
+
+- Java
+
+- Github
+
+- npm
+
+- AdobeXD
+
+  
+
+------
+
+  ## Contact Me
+
+[linkedIn:]: (https://ve.linkedin.com/in/dusviry-marin)
+[Twitter]: (https://twitter.com/dusvimarin)
+[dribbble]: (https://dribbble.com/dusvy)
+[Portfolio]: 	"coming_soon"
+[email]: (dusvimarin@gmail.com)
+[buymeacoffee]: (https://www.buymeacoffee.com/dusvim)
+
+
