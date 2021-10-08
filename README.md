@@ -8,7 +8,6 @@ and... In the challenges of Frontend Mentor
 
 Successfully Completed the course of  FreeCodecamp (Responsive Web Design & JavaScript) --> [FCC](https://codepen.io/dusvimarin/pen/BaWJpLm) 
 
-------
 
 ##  What I Love
 
@@ -20,7 +19,6 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 
 😻 The Cats
 
-------
 
 ##  Skills
 
