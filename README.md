@@ -10,35 +10,17 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 ##  What I Love
 
 🤘 Rock Music
+
 📷 Fotography
+
 🎥 Movies and Series
+
 😻 The Cats
 
 ------
-
-##  Skills
-
-- Html 
-- Css
-- Javascript
-- Ecmascript
-- Bootstrap
-- Wordpress/WooCommerce/Elementor/Divi/Oxygen 
-- Php
-- Sql (Postgresql, Sql server, Mysql, Mariabd, Sybase)
-- Java
-- Github
-- npm
-- AdobeXD
-
-------
-  ## Contact Me
+ ## Contact Me
  [fcc]:https://codepen.io/dusvimarin/pen/BaWJpLm
-[linkedIn:]:https://ve.linkedin.com/in/dusviry-marin
-[Twitter]:https://twitter.com/dusvimarin
-[dribbble]:https://dribbble.com/dusvy
-[Portfolio]: 	"coming_soon"
-[email]:dusvimarin@gmail.com
-[buymeacoffee]:https://www.buymeacoffee.com/dusvim
+
+ 
 
 
