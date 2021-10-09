@@ -13,6 +13,8 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 
 🤘 Rock Music
 
+🍫 Chocolates
+
 📷 Fotography
 
 🎥 Movies and Series
