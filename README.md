@@ -1,6 +1,6 @@
 # Hello World! I'm Dusvy Marin 👩 ✌️
 
-I am a Front-end Web Developer with experience in Sql and Programming ... In the future I will be a Data Scientist or Tester.
+I am a Front-end Web Developer with experience in Sql and Programming ...
 
  I’m currently learning Vuejs/Nuxt
 
