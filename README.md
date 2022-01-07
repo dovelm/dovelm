@@ -42,5 +42,5 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 [LinkedIn](https://ve.linkedin.com/in/dusviry-marin) </br>
 [Twitter](https://twitter.com/dusvimarin)  </br>
 [Dribbble](https://dribbble.com/dusvy)  </br>
-[Buymeacoffee](https://www.buymeacoffee.com/dusvim)  </br>
+[Kofi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z77OU88))  </br>
 --> dusvimarin@gmail.com
