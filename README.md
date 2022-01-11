@@ -15,6 +15,8 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 
 🍫 Chocolates
 
+📖 to write poems
+
 📷 Fotography
 
 🎥 Movies and Series
@@ -33,6 +35,7 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 - Php
 - Sql (Postgresql, Sql server, Mysql, Mariabd, Sybase)
 - Java
+- -Markdown
 - Github
 - npm
 - AdobeXD
