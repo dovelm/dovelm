@@ -15,7 +15,7 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 
 🍫 Chocolates
 
-📖 to write poems
+📖 To write poems
 
 📷 Fotography
 
