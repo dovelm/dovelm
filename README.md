@@ -1,12 +1,10 @@
 # Hello World! I'm Dusvy Marin 👩 ✌️
 
-I am a Front-end Web Developer with experience in Sql and Programming ...
+I am a Junior Front-end Web Developer and UI/UX Designer with experience in Sql and Programming ...
 
- I’m currently learning Vuejs/Nuxt
+I’m currently learning Flutter
 
 and... In the challenges of Frontend Mentor 
-
-Successfully Completed the course of  FreeCodecamp (Responsive Web Design & JavaScript) --> [FCC](https://codepen.io/dusvimarin/pen/BaWJpLm) 
 
 
 ##  What I Love
@@ -35,9 +33,11 @@ Successfully Completed the course of  FreeCodecamp (Responsive Web Design & Java
 - Php
 - Sql (Postgresql, Sql server, Mysql, Mariabd, Sybase)
 - Java
+- Flutter
 - Github
 - npm
 - AdobeXD
+- Figma
 
 ## Contact Me
   
