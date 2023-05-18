@@ -29,15 +29,17 @@ and... In the challenges of Frontend Mentor
 - Ecmascript
 - Bootstrap
 - Responsive Web Design
+- Full Creative and with good level in UI/UX Design
 - Wordpress/WooCommerce/Elementor/Divi/Oxygen 
 - Php
 - Sql (Postgresql, Sql server, Mysql, Mariabd, Sybase)
 - Java
 - Flutter
 - Github
-- npm
+- NPM
 - AdobeXD
 - Figma
+- -Marvel App
 
 ## Contact Me
   
