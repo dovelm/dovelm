@@ -39,7 +39,7 @@ and... In the challenges of Frontend Mentor
 - NPM
 - AdobeXD
 - Figma
-- -Marvel App
+- Marvel App
 
 ## Contact Me
   
