@@ -1,6 +1,6 @@
 # Hello World! I'm Dusvy Marin 👩 ✌️
 
-I am a Junior Front-end Web Developer and UI/UX Designer with experience in Sql and Programming ...
+I am a Front-end Web Developer and UI/UX Designer with experience in Sql and Programming ...
 
 I’m currently learning Flutter
 
@@ -29,7 +29,7 @@ and... In the challenges of Frontend Mentor
 - Ecmascript
 - Bootstrap
 - Responsive Web Design
-- Full Creative and with good level in UI/UX Design
+- Full Creative and with good level in UI/UX Design (Wireframes, Prototype, Visual Design, AI, UX Writing)
 - Wordpress/WooCommerce/Elementor/Divi/Oxygen 
 - Php
 - Sql (Postgresql, Sql server, Mysql, Mariabd, Sybase)
