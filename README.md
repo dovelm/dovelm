@@ -1,6 +1,6 @@
 # Hello World! I'm Dusvy Marin 👩 ✌️
 
-I am a Front-end Web Developer and UI/UX Designer with experience in Sql and Programming ...
+I am a Front-end Web- Mobile Developer and UI/UX Designer with experience in Sql and Programming ...
 
 I’m currently learning Flutter
 
