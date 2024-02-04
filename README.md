@@ -45,7 +45,6 @@ and... In the challenges of Frontend Mentor
   
 [LinkedIn](https://ve.linkedin.com/in/dusviry-marin) </br>
 [Twitter](https://twitter.com/dusvimarin)  </br>
-[Dribbble](https://dribbble.com/dusvy_m)  </br>
 [Frontend mentor](https://www.frontendmentor.io/profile/dovelym) </br>
 --> dusvimarin@gmail.com  </br> </br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z77OU88) </br>
