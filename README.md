@@ -42,8 +42,7 @@ and... In the challenges of Frontend Mentor
 - Marvel App
 
 ## Contact Me
-  
-[Twitter](https://twitter.com/dusvimarin)  </br>
+ 
 [Frontend mentor](https://www.frontendmentor.io/profile/dovelym) </br>
 --> dusvimarin@gmail.com  </br> </br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z77OU88) </br>
