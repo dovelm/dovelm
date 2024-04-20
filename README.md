@@ -43,7 +43,6 @@ and... In the challenges of Frontend Mentor
 
 ## Contact Me
   
-[LinkedIn](https://ve.linkedin.com/in/dusviry-marin) </br>
 [Twitter](https://twitter.com/dusvimarin)  </br>
 [Frontend mentor](https://www.frontendmentor.io/profile/dovelym) </br>
 --> dusvimarin@gmail.com  </br> </br>
