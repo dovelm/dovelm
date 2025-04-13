@@ -1,11 +1,8 @@
-# Hello World! I'm Dusvy M  👩 ✌️
+# Hello World! I'm Dusvy_M  👩 ✌️
 
-I am a Front-end Developer and UI/UX Designer with experience in Sql and Programming ...
-
-I’m currently learning Flutter
-
-and... In the challenges of Frontend Mentor 
-
+I'm a Front-end Developer and UX/UI Designer, passionate about attractive and functional user interfaces. 
+I have worked in the back end with Springboot. 
+In my free time, I like to learn new technologies.
 
 ##  What I Love
 
@@ -26,14 +23,18 @@ and... In the challenges of Frontend Mentor
 - Html 
 - Css
 - Javascript
+- Vuejs
+- React
 - Ecmascript
 - Bootstrap
+- Tailwind css
 - Responsive Web Design
 - Full Creative and with good level in UI/UX Design (Wireframes, Prototype, Visual Design, AI, UX Writing)
 - Wordpress/WooCommerce/Elementor/Divi/Oxygen 
 - Php
-- Sql (Postgresql, Sql server, Mysql, Mariabd, Sybase)
+- Sql (Postgresql, Sql server, Mysql)
 - Java
+- Springboot
 - Flutter
 - Github
 - NPM
@@ -43,6 +44,6 @@ and... In the challenges of Frontend Mentor
 
 ## Contact Me
  
-[Frontend mentor](https://www.frontendmentor.io/profile/dovem) </br>
---> dusvilopez@hotmail.com  </br> </br>
+[Frontend mentor](https://www.frontendmentor.io/profile/dovelm) </br>
+--> dusvim24@gmail.com  </br> </br>
 
