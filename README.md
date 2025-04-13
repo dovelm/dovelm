@@ -44,6 +44,6 @@ In my free time, I like to learn new technologies.
 
 ## Contact Me
  
-[Frontend mentor](https://www.frontendmentor.io/profile/dovelm) </br>
+--> [Frontend mentor](https://www.frontendmentor.io/profile/dovelm) </br>
 --> dusvim24@gmail.com  </br> </br>
 
