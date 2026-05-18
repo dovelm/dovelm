@@ -1,4 +1,4 @@
-# Hello World! I'm Dusvy_M  👩 ✌️
+# Hello World!  👩 ✌️
 
 I'm a Front-end Developer and UX/UI Designer, passionate about attractive and functional user interfaces. 
 I have worked in the back end with Springboot. 
@@ -38,12 +38,10 @@ In my free time, I like to learn new technologies.
 - Flutter
 - Github
 - NPM
-- AdobeXD
 - Figma
-- Marvel App
 
 ## Contact Me
  
---> [Frontend mentor](https://www.frontendmentor.io/profile/dovelm) </br>
+--> [Frontend mentor](https://www.frontendmentor.io/profile/dolym) </br>
 --> dusvim24@gmail.com  </br> </br>
 
