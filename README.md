@@ -1,7 +1,6 @@
 # Hello World!  👩 ✌️
 
 I'm a Front-end Developer and UX/UI Designer, passionate about attractive and functional user interfaces. 
-I have worked in the back end with Springboot. 
 In my free time, I like to learn new technologies.
 
 ##  What I Love
