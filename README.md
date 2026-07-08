@@ -29,7 +29,7 @@ In my free time, I like to learn new technologies.
 - Tailwind css
 - Responsive Web Design
 - Full Creative and with good level in UI/UX Design (Wireframes, Prototype, Visual Design, AI, UX Writing)
-- Wordpress/WooCommerce/Elementor/Divi/Oxygen 
+- Wordpress/WooCommerce/Elementor
 - Php
 - Sql (Postgresql, Sql server, Mysql)
 - Java
